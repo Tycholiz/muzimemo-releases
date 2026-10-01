@@ -1,2 +1,2 @@
-# music-recording-app-releases
-Desktop app releases for Music Recording App
+# muzimemo-releases
+Desktop app releases for MuziMemo
